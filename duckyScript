@@ -1,6 +1,6 @@
 REM The Rick Stick
 REM Fun USB Rubber Ducky prank that works on both windows and mac.
-REM github.com/charg4y
+
 
 DELAY 1000
 GUI r
